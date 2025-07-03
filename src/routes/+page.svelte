@@ -49,21 +49,47 @@
                 </p>
             </div>
         </div>
-
-        <div class="flex flex-col">
-            <h2
-                class="text-md font-bold: mb-4 border-b border-solid border-black uppercase"
-            >
-                Personal Stuff:
-            </h2>
-        </div>
-        <div class="flex flex-col">
+        <div class="flex grow flex-col">
             <h2
                 class="text-md font-bold: mb-4 border-b border-solid border-black uppercase"
             >
                 Working Experience:
             </h2>
-            
+            <ul class="flex grow flex-col justify-between">
+                <li class="flex flex-row font-bold: mb-4 pb-4 border-b border-solid border-black">
+                    <div class="basis-1/3 text-xs">
+                        Backend Developer
+                    </div>
+                    <div class="basis-1/3">
+                        PT. AKO MEDIA ASIA
+                    </div>
+                    <div>
+                        2023 - 2025
+                    </div>
+                </li>
+                <li class="flex flex-row font-bold: mb-4 pb-4 border-b border-solid border-black">
+                    <div class="basis-1/3 text-xs">
+                        Backend Developer
+                    </div>
+                    <div class="basis-1/3">
+                        Pintar Ventura Group
+                    </div>
+                    <div>
+                        2022 - 2023
+                    </div>
+                </li>
+                <li class="flex flex-row font-bold: mb-4">
+                    <div class="basis-1/3 text-xs">
+                        Part-Time Backend Developer
+                    </div>
+                    <div class="basis-1/3">
+                        Proclub Studio
+                    </div>
+                    <div>
+                        2021 - 2022
+                    </div>
+                </li>
+            </ul>
         </div>
     </div>
 
