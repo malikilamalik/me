@@ -1,6 +1,8 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
+@tailwind utilities;
+
 @font-face {
     font-family: "Departure Mono";
     src: url('/fonts/DepartureMono-Regular.woff2') format('woff2');
@@ -14,4 +16,13 @@
     h4 {
         @apply uppercase font-bold mb-0;
     }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.all-prose {
+  @apply prose prose-lg lg:prose-xl;
 }

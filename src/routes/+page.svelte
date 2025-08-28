@@ -35,7 +35,7 @@
     </div>
 </header>
 
-<main class="flex flex-col">
+<main class="flex flex-col break-normal">
     <section class="flex grow flex-col justify-evenly">
     <div class="basis-1/2">
         <div class="mb-4">
