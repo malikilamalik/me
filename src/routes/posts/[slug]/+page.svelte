@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Head } from '$lib';
+	import { Head, Header} from '$lib';
 
 	const { data } = $props();
 	let {
@@ -7,7 +7,7 @@
 		meta: { date, title, readingTime },
 	} = data;
 </script>
-
+<Header></Header>
 <Head title={`Post | ${title}`} />
 
 <article class="flex flex-grow flex-col">

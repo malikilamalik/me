@@ -1,9 +1,10 @@
 <script lang="ts">
-	import { Head, PostCard } from '$lib';
+	import { Head, PostCard, Header } from '$lib';
 
 	const { data } = $props();
 	let { posts } = data;
 </script>
+<Header></Header>
 
 <Head title={`All the Posts`} />
 

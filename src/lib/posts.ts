@@ -1,7 +1,7 @@
 export const get_posts = async () => {
 	// Fetch posts from local Markdown files
 const posts: Post[] = await Promise.all(
-	Object.entries(import.meta.glob('../../posts/**/*.md')).map(
+	Object.entries(import.meta.glob('../posts/**/*.md')).map(
 			async ([path, resolver]) => {
 				const resolved = (await resolver()) as { metadata: Post };
 				const { metadata } = resolved;

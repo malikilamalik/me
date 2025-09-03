@@ -1,17 +1,21 @@
-export const load = async ({ params }: { params: { slug: string } }) => {
-	const { slug } = params;
+import { error } from '@sveltejs/kit';
 
-	try {
-		const post = await import(`../../../../posts/${slug}.md`);
-		return {
-			Content: post.default,
-			meta: { ...post.metadata, slug },
-		};
-	} catch (err) {
-		console.error('Error loading the post:', err);
-		return {
-			status: 500,
-			error: `Could not load the post: ${err.message || err}`,
-		};
-	}
+const modules = import.meta.glob('../../../posts/*.{md,svx,svelte.md}'); 
+
+export const load = async ({ params }: { params: { slug: string } }) => {
+  const { slug } = params;
+
+  const keyMd = `../../../posts/${slug}.md`;
+  const keySvx = `../../../posts/${slug}.svx`;
+  const keySvelteMd = `../../../posts/${slug}.svelte.md`;
+
+
+  const loader = modules[keyMd] ?? modules[keySvx] ?? modules[keySvelteMd];
+  if (!loader) throw error(404, 'Post not found');
+
+  const mod: any = await loader();            // ← now get the module
+  return {
+    Content: mod.default,                     // compiled Svelte component
+    meta: { ...(mod.metadata ?? {}), slug },  // frontmatter from mdsvex
+  };
 };
