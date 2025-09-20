@@ -2,3 +2,4 @@
 export * from './components'
 export * from './site-config'
 export * from './posts'
+export * from './chess'

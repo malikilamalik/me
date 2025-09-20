@@ -23,7 +23,7 @@
 <header class="grow-0 shrink-0">
     <div class="flex flex-row content-between border-solid border-black pb-2">
         <div class="container font-bold">
-            <a href="https://malikilamalik.dev">
+            <a href="/">
                 {#each malikilamalik as word, i}
                     <h1 class="border-0 font-normal toggle {i === activeIndex ? 'active' : ''}">{word}</h1>
                 {/each}
