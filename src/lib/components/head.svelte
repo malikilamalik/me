@@ -39,5 +39,5 @@
 	<meta name="twitter:image" content={image} />
 
 	<!-- Monetisation -->
-	<meta name="monetization" content="$ilp.uphold.com/bzPBWkMBzLmN" />
+	<!-- <meta name="monetization" content="$ilp.uphold.com/bzPBWkMBzLmN" /> -->
 </svelte:head>

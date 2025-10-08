@@ -29,7 +29,7 @@
                 {/each}
             </a>
         </div>
-        <div class="justify-end text-right text-green-600 hover:underline">
+        <div class="justify-end text-right text-blue-600 hover:underline">
             <a href="/posts">Blog</a>
         </div>
     </div>
