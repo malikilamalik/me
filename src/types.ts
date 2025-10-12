@@ -3,6 +3,8 @@ declare interface Post {
 	title: string;
 	tags: string[];
 	published: boolean;
+	image: string;
+	kind: string;
 	reading_time: {
 		text: string;
 		minutes: number;
