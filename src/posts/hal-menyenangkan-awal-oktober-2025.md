@@ -4,7 +4,7 @@ description: "Katanya untuk menemukan kembali tujuan hidup adalah dengan merasak
 author: 'Malik Wali'
 date: '2025-10-12'
 kind: 'blog'
-published: true
+published: false
 ---
 
 
@@ -17,7 +17,7 @@ Mungkin hal-hal yang aku anggap menyenangkan akan berulang setiap minggu, tapi t
 Aku rutin jalan malam-malam dikarenakan waktu kosongnya ya malam, tujuan jalan ini adalah tentu saja untuk keluar dari ***sedetary life***, karena aku sendiri kalau dicek di BMI calculator masuknya obese (118 kg cuy) jadinya tiap malem aku jalan targetnya 10.000 langkah perhari. 
 
 Dikarenakan jalannya santai aku juga mulai memerhatikan sekitar, dan di minggu awal dan kedua ini aku ngeliat mobil toyota GR86 ![mobil Toyota GR86 berwarna biru terparkir di depan showroom mobil toyota](https://media.discordapp.net/attachments/831543509595979857/1426983542197321748/IMG_1482.jpg?ex=68ed357c&is=68ebe3fc&hm=b618dcdb1126a1656a19fb9d31d14759e29bc277c41223c6078a3821284eb407&=&format=webp&width=630&height=840)
-Tadinya mau minta izin ke satpamnya tapi kayaknya cukup dilihat saja dari jauh lol.
+
 
 Tadinya mau minta izin ke satpamnya buat lihat dari dekat, tapi kayaknya cukup dilihat dari jauh aja, lol.
 

@@ -72,6 +72,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6
                      mt-4"> <!-- base row height -->
         {#each posts as item}
+            {#if item.published}
             <Card.Root
             class={`group relative flex flex-col overflow-hidden rounded-none border border-border bg-card transition
                     hover:bg-accent/10 hover:shadow-[0_0_0_1px_var(--border)]
@@ -106,6 +107,7 @@
                 </Card.Description>
             </div>
             </Card.Root>
+            {/if}
         {/each}
         </div>
     </div>
