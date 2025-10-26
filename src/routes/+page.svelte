@@ -81,7 +81,7 @@
             <a class="absolute inset-0 z-10" href="/posts/{item.slug}" aria-label={item.title}></a>
 
             <!-- Header -->
-            <div class="p-4">
+            <div class="px-4">
                 <div class="flex items-center gap-2 text-xs text-muted-foreground">
                 <Badge variant="outline" class="border-emerald-500/40 text-emerald-400">{item.kind}</Badge>
                 <span>•</span><span>{item.date}</span>
@@ -91,18 +91,18 @@
 
             {#if item.image}
                 <div class="px-4">
-                <AspectRatio ratio={16/9} className="mb-3 overflow-hidden rounded-none border">
+                <AspectRatio ratio={16/9} className="overflow-hidden rounded-none border">
                     <img src={item.image} alt="" class="h-full w-full object-cover" />
                 </AspectRatio>
                 </div>
             {/if}
 
             <!-- Bottom block always keeps distance from border -->
-            <div class="px-4 mt-auto pb-6">
+            <div class="px-4 mt-auto">
                 <Card.Title class={`font-bold tracking-tight ${item.image ? 'text-l' : 'text-xl'}`}>
                 {item.title}
                 </Card.Title>
-                <Card.Description class={`mt-1 text-muted-foreground ${item.image ? 'text-xs' : 'text-sm'}`}>
+                <Card.Description class={`mt-4 text-muted-foreground ${item.image ? 'text-xs' : 'text-sm'}`}>
                 {item.description}
                 </Card.Description>
             </div>

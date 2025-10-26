@@ -11,7 +11,7 @@
 <Head title={`Post | ${title}`} />
 
 <article class="flex flex-grow flex-col">
-	<h1 class="mb-5 text-5xl font-bold">{title}</h1>
+	<h1 class="mb-5 text-xl font-bold md:text-5xl">{title}</h1>
 	<div class="">
 		<p>{new Date(date).toDateString()}</p>
 		<p class="mb-16">{readingTime.text}</p>
