@@ -26,7 +26,7 @@ Sedangkan Nominativ adalah ketika subjek dari kalimat orang, tempat, atau objek,
 
 ## Beispel
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/1.mp4' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/1.mp4' frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Thaddäus: beeil dich mit den Tischen, SpongeBob! <u><span style="color:blue">Es</span> ist längst geschlossen</u>,und <u><span style="color:blue">ich</span> möchte gern nach Hause gehen</u>.
 
@@ -37,7 +37,7 @@ Thaddäus: Hallo, tut mir leid, Herr. <u><span style="color:blue">Wir</span> hab
 Mr. Krabs: Ahoi! Die Krosse Krabbe. Was kan <u><span style="color:blue">ich</span> fur <span style="color:red">Sie(dativ)</span> tun?</u>.
 
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/2.mp4' frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/2.mp4' frameborder="0" allow=" encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 Sandy: Hier Patrick, nimm dir einen Krabbenburger!
 
@@ -51,7 +51,7 @@ Patrick: <u><span style="color:blue">Ich</span> kann das nicht!</u> SpongeBob, k
 
 SpongeBob: Patrick <u><span style="color:blue">ich</span> komme nicht zurück</u>.
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/3.mp4' frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/3.mp4' frameborder="0" allow=" encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 Patrick: Okay, <u><span style="color:blue">du</span> darfst gern der Dreckige Dan sein</u>. <u><span style="color:blue">Ich</span> will einfach nur Patrick sein</u>.
 
