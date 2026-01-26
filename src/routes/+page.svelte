@@ -98,7 +98,7 @@
             {/if}
 
             <!-- Bottom block always keeps distance from border -->
-            <div class="px-4 mt-auto pb-6">
+            <div class="px-4  pb-6">
                 <Card.Title class={`font-bold tracking-tight ${item.image ? 'text-l' : 'text-xl'}`}>
                 {item.title}
                 </Card.Title>
