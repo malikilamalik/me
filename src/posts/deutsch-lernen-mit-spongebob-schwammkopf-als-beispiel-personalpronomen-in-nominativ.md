@@ -24,7 +24,7 @@ Sedangkan Nominativ adalah ketika subjek dari kalimat orang, tempat, atau objek,
 
 <img src="{base}/images/nominativ.png" alt="Gambar Nominativ" />
 
-## Beispel
+## Beispiel
 
 <iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/1.mp4' frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
