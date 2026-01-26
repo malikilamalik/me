@@ -53,7 +53,7 @@ SpongeBob: Patrick <u><span style="color:blue">ich</span> komme nicht zurück</u
 
 <iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/3.mp4' frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
-Patrick: Okay, <u><span style="color:blue">du</span></u> darfst gern der Dreckige Dan sein. <u><span style="color:blue">Ich</span> will einfach nur Patrick sein</u>.
+Patrick: Okay, <u><span style="color:blue">du</span> darfst gern der Dreckige Dan sein</u>. <u><span style="color:blue">Ich</span> will einfach nur Patrick sein</u>.
 
 SpongeBob: <u><span style="color:blue">Wir</span>  verschwinden hier besser</u>, <u>bevor <span style="color:blue">sie</span> wieder aufwacht</u>.
 
