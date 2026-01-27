@@ -9,13 +9,16 @@ published: true
 ---
 <script>
   import { base } from '$app/paths';
+  import { Tooltip } from '$lib/components';
 </script>
-Hallo, ich heiße Malik und ich lerne Deutsch schreiben mit SpongeBob Schawmmkopf als beispiel.
+Hallo, ich heiße Malik und ich lerne <Tooltip text="German language Wallahi i'm finished">Deutsch</Tooltip> schreiben mit SpongeBob Schawmmkopf als beispiel.
 
 ## Was ist ein Personalpronomen ?
-Personalpronomen berasal dari dari dua kata:
+<Tooltip text="Personal pronouns in German AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA">Personalpronomen</Tooltip> berasal dari dari dua kata:
+
 - Personal -> Orang
-- Pronomen -> Sebelum/Untuk(Pro) Noun(nomen)
+
+- <Tooltip text="A word that replaces a noun">Pronomen</Tooltip> -> Sebelum/Untuk(Pro) Noun(nomen)
 
 Dapat diartikan bahwa Personalpronomen adalah kata ganti yang digunakan untuk menggantikan
 Seseorang atau objek.
@@ -26,7 +29,10 @@ Sedangkan Nominativ adalah ketika subjek dari kalimat orang, tempat, atau objek,
 
 ## Beispiel
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/1.mp4' frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video class="w-full aspect-video" controls>
+  <source src='{base}/videos/personalpronomen-in-nominativ/1.mp4' type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Thaddäus: beeil dich mit den Tischen, SpongeBob! <u><span style="color:blue">Es</span> ist längst geschlossen</u>,und <u><span style="color:blue">ich</span> möchte gern nach Hause gehen</u>.
 
@@ -37,7 +43,10 @@ Thaddäus: Hallo, tut mir leid, Herr. <u><span style="color:blue">Wir</span> hab
 Mr. Krabs: Ahoi! Die Krosse Krabbe. Was kan <u><span style="color:blue">ich</span> fur <span style="color:red">Sie(dativ)</span> tun?</u>.
 
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/2.mp4' frameborder="0" allow=" encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<video class="w-full aspect-video" controls>
+  <source src='{base}/videos/personalpronomen-in-nominativ/2.mp4' type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Sandy: Hier Patrick, nimm dir einen Krabbenburger!
 
@@ -51,7 +60,10 @@ Patrick: <u><span style="color:blue">Ich</span> kann das nicht!</u> SpongeBob, k
 
 SpongeBob: Patrick <u><span style="color:blue">ich</span> komme nicht zurück</u>.
 
-<iframe class="w-full aspect-video" src='{base}/videos/personalpronomen-in-nominativ/3.mp4' frameborder="0" allow=" encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<video class="w-full aspect-video" controls>
+  <source src='{base}/videos/personalpronomen-in-nominativ/3.mp4' type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Patrick: Okay, <u><span style="color:blue">du</span> darfst gern der Dreckige Dan sein</u>. <u><span style="color:blue">Ich</span> will einfach nur Patrick sein</u>.
 
