@@ -14,7 +14,7 @@ published: true
 Hallo, ich heiße Malik und ich lerne <Tooltip text="German language Wallahi i'm finished">Deutsch</Tooltip> schreiben mit SpongeBob Schawmmkopf als beispiel.
 
 ## Was ist ein Personalpronomen ?
-<Tooltip text="Personal pronouns in German AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA">Personalpronomen</Tooltip> berasal dari dari dua kata:
+<Tooltip text="Personal pronouns in German">Personalpronomen</Tooltip> berasal dari dari dua kata:
 
 - Personal -> Orang
 
@@ -36,7 +36,7 @@ Sedangkan Nominativ adalah ketika subjek dari kalimat orang, tempat, atau objek,
 
 Thaddäus: beeil dich mit den Tischen, SpongeBob! <u><span style="color:blue">Es</span> ist längst geschlossen</u>,und <u><span style="color:blue">ich</span> möchte gern nach Hause gehen</u>.
 
-SpongeBob: <u><span style="color:blue">ich</span> geh ran</u>, <u><span style="color:blue">ich</span> geh ran</u> ???(tidak jelas).
+SpongeBob: <u><span style="color:blue">Ich</span> geh ran</u>, <u><span style="color:blue">Ich</span> geh ran</u> Ich komme schon.
 
 Thaddäus: Hallo, tut mir leid, Herr. <u><span style="color:blue">Wir</span> haben geschlossen</u>.
 
